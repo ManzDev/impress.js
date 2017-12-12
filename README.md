@@ -12,7 +12,16 @@
 3. Include ``css/impress.base.min.css`` for a minimal and basic styles.
     * Optional: Include ``css/darkgrey.theme.min.css`` for a dark theme or create your own theme.
 
-- DEMO: [https://manzdev.github.io/impress.js/](https://manzdev.github.io/impress.js/)
+## Demos
+
+| Título      | URL             |
+|-------------|-----------------|
+| Simple demo | [https://manzdev.github.io/impress.js/](https://manzdev.github.io/impress.js/) |
+| 3D rotations | [https://cdn.rawgit.com/impress/impress.js/master/examples/3D-rotations/](https://cdn.rawgit.com/impress/impress.js/master/examples/3D-rotations/) |
+| Cube example | [https://cdn.rawgit.com/impress/impress.js/master/examples/cube/](https://cdn.rawgit.com/impress/impress.js/master/examples/cube/) |
+| CSS3D Summit | [https://bartaz.github.io/meetjs/css3d-summit/](https://bartaz.github.io/meetjs/css3d-summit/) |
+| CursoBloggers Murcia | [https://manzdev.github.io/cursobloggers2013/#/init](https://manzdev.github.io/cursobloggers2013/#/init) |
+| Front-end: El lado oscuro | [https://manzdev.github.io/frontend-el-lado-oscuro/](https://manzdev.github.io/frontend-el-lado-oscuro/) |
 
 ## Don't forget
 
